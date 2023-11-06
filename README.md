@@ -1,24 +1,38 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Wealth Armour Financial Services</title>
 </head>
 <body>
     <header>
         <h1>Welcome to Wealth Armour Financial Services</h1>
     </header>
+    
+    <nav>
+        <ul>
+            <li><a href="#about">About Us</a></li>
+            <li><a href="#services">Our Services</a></li>
+            <li><a href="#contact">Contact Us</a></li>
+        </ul>
+    </nav>
 
-    <section>
-        <h2>About Me</h2>
-        <p>Hello, I'm Wealth Armour Financial Services. I specialize in helping businesses to grow and succeed. If you're looking for financial advice and support, you've come to the right place.</p>
+    <section id="about">
+        <h2>About Us</h2>
+        <p>Welcome to Wealth Armour Financial Services. We are here to help you achieve your financial goals and secure your future. Our team of experts is dedicated to providing top-notch financial services tailored to your needs.</p>
     </section>
 
-    <section>
-        <h2>Contact Information</h2>
-        <p>If you have any questions or need assistance, please feel free to contact me at:</p>
-        <p>Email: <a href="mailto:wealtharmour05@gmail.com">wealtharmour05@gmail.com</a></p>
+    <section id="services">
+        <h2>Our Services</h2>
+        <p>At Wealth Armour Financial Services, we offer a wide range of financial services, including financial planning, investment management, retirement planning, and more. We are committed to guiding you on your financial journey.</p>
+    </section>
+
+    <section id="contact">
+        <h2>Contact Us</h2>
+        <p>If you have any questions or would like to learn more about our services, please feel free to get in touch with us:</p>
+        <address>
+            Email: info@wealtharmour.com<br>
+            Phone: (123) 456-7890
+        </address>
     </section>
 
     <footer>
